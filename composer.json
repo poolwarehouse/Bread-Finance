@@ -1,0 +1,5 @@
+{
+    "name": "poolwarehouse/bread-finance",
+    "type": "wordpress-plugin",
+    "require": {}
+}

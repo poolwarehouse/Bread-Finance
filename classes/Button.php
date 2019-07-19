@@ -173,11 +173,6 @@ class Button extends Singleton {
 		$dataBindBread         = $meta;
 		$dataBindBread['opts'] = $opts;
 
-		if(! apply_filters('bread_button_allowed', true, $opts, $meta)){
-			return;
-		}
-
-		$dataBindBread['opts'] = apply_filters('tgmpa_button_opts',  $opts, $meta);
 
 		$defaultPlaceholder = $this->getPlugin()->getTemplateContent( 'buttons/button-placeholder', array( 'title' => $this->getPlugin()->getBreadGateway()->get_option( 'title' ) ) );
 
