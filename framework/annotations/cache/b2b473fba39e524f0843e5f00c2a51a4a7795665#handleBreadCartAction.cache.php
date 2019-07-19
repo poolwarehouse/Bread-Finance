@@ -1,0 +1,1 @@
+<?php return unserialize('a:1:{i:0;O:16:"Wordpress\\Action":4:{s:3:"for";s:23:"woocommerce_add_to_cart";s:8:"priority";i:99;s:4:"args";i:6;s:6:"output";b:0;}}');
