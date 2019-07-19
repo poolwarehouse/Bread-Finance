@@ -1,1 +1,0 @@
-<?php return unserialize('a:1:{i:0;O:16:"Wordpress\\Filter":3:{s:3:"for";s:14:"mwp_form_class";s:8:"priority";i:10;s:4:"args";i:6;}}');

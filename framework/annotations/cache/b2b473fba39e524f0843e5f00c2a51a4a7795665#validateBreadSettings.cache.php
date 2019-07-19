@@ -1,1 +1,0 @@
-<?php return unserialize('a:1:{i:0;O:16:"Wordpress\\Action":4:{s:3:"for";s:57:"woocommerce_update_options_payment_gateways_bread_finance";s:8:"priority";i:11;s:4:"args";i:1;s:6:"output";b:0;}}');

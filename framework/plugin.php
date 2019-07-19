@@ -24,7 +24,6 @@ if ( basename( __DIR__ ) == 'modern-framework' and file_exists( __DIR__ . '/dev_
  * @return	void
  */
 call_user_func( function() {
-
 	global $_mwp_version;
 	$plugin_meta = array();
 	

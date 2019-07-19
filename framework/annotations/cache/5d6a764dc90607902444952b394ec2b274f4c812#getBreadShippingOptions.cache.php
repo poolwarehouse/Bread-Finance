@@ -1,1 +1,0 @@
-<?php return unserialize('a:1:{i:0;O:21:"Wordpress\\AjaxHandler":2:{s:6:"action";s:24:"bread_calculate_shipping";s:3:"for";a:2:{i:0;s:5:"users";i:1;s:6:"guests";}}}');
